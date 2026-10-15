@@ -24,4 +24,4 @@ The script uses a dedicated database named `BCA305P_AS02_Lab3` and clears the na
 - Q11 (wallet transfer) demonstrates a transaction. Transactions require a replica set or MongoDB Atlas; a standalone MongoDB server does not support multi-document transactions.
 - Results are printed by `printjson(...)` in the shell. Screenshots of the output can be captured for your lab submission.
 - The lab sheet asks for database designs and queries, not a prescribed output format; sample data and outputs may differ if you modify the sample records.
-remove original file pdf
+remove only original file pdf
