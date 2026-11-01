@@ -1,0 +1,1 @@
+MongoDB Community Edition\nMongoDB Shell (mongosh)\nMongoDB Compass\nUbuntu/Linux operating system\nInternet connection for installation\n
