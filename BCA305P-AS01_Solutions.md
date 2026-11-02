@@ -1,4 +1,4 @@
-# BCA305P-AS01 — Lab Sheet 4 Solutions
+Lab Sheet 4
 
 Actual sheet topics: Q1–Q10 Apache HBase; Q11–Q15 Apache Cassandra. Run HBase examples in HBase shell and CQL examples in cqlsh. Sample values can be changed for your practical.
 
